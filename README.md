@@ -10,7 +10,7 @@ _This is my code-review for Epicodus where I practice different html and css bas
 
 ## Setup
 
-* go to
+* go to http://sarastillwell.github.io/code-review/
 
 
 
@@ -23,6 +23,7 @@ github
 
 ## link to GitHub Pages
 
+http://sarastillwell.github.io/code-review/
 
 ### Legal
 
