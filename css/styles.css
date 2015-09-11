@@ -4,4 +4,8 @@ h1 {
 }
 h2 {
   text-align: center;
+  color: blue;
+}
+h3 {
+  text-align: left;
 }
